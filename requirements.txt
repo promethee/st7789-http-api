@@ -1,0 +1,5 @@
+fastapi==0.136.1
+pillow==11.1.0
+spidev==3.8
+st7789==1.0.1
+uvicorn==0.46.0
