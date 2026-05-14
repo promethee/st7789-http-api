@@ -1,6 +1,6 @@
 # ST7789 Raspberry Pi Hat HTTP API
 
-A basic http server to display text on a Raspberry Pi, using the WaveShare ST7789 hat.
+A basic http server to display text on a Raspberry Pi, using the WaveShare ST7789 hat.  
 Feel free to use this as a basis to do anything else.
 
 ## Install  
